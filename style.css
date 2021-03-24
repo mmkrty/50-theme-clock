@@ -70,6 +70,7 @@ html {
   height: 65px;
   width: 3px;
   transform-origin: bottom center;
+  transition: all 0.3s ease-in;
 }
 
 .needle.hour {
